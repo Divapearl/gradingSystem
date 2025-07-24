@@ -14,9 +14,6 @@ grading-system/
 └── README.md # Documentation (this file)
 ```
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -43,12 +40,10 @@ The program prompts the user to input a student's score (as a number). It then:
 ### Sample Run:
 
 Starting grading system ......
+
 Please enter student's grade: 66
 Student's grade is B
 
-yaml
-Copy
-Edit
 
 ---
 
