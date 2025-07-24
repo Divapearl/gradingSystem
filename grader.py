@@ -25,3 +25,4 @@ def grade(score: str):
 
 def printGrade(grade:str):
   print(f"Student's grade is {grade}")
+    return
