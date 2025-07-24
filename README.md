@@ -6,11 +6,13 @@ A simple Python-based grading system that takes a student's score as input and p
 
 ## 📁 Project Structure
 
+```
 grading-system/
 │
 ├── grader.py # Contains the grade calculation logic
 ├── main.py # Entry point for running the application
 └── README.md # Documentation (this file)
+```
 
 yaml
 Copy
@@ -64,3 +66,6 @@ No external dependencies — runs on standard Python 3.
 
 ```bash
 
+python main.py
+
+```
