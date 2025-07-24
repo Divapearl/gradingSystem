@@ -1,6 +1,8 @@
 def grade(score: str):
     try:
         score = int(score)  # convert string to int
+        if score < 0 or score > 0:
+            print("Score should be between 0 - 100")
     except Exception as e:
         print("Score should be numbers only.")
         return
